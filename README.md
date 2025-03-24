@@ -16,7 +16,7 @@ Como Rodar o Projeto no terminal
 
 Clone o repositório:
 
-
+https://github.com/FelipeVoidela/Checkpoint-1-API-SpringBoot-de-Pedidos
 
 Acesse a pasta do projeto:
 
