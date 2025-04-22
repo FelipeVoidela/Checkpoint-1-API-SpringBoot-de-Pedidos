@@ -44,7 +44,6 @@ Corpo da Requisição:
 
 Resposta:
 
-```bash
 {
   "id": 1,
   "clienteNome": "João Silva",
