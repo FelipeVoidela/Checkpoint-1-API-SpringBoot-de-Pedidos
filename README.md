@@ -36,6 +36,7 @@ POST /pedidos
 
 Corpo da Requisição:
 
+```bash
 {
   "clienteNome": "João Silva",
   "valorTotal": 150.0
@@ -43,6 +44,7 @@ Corpo da Requisição:
 
 Resposta:
 
+```bash
 {
   "id": 1,
   "clienteNome": "João Silva",
